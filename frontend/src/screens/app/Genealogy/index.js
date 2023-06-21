@@ -12,7 +12,7 @@ const Genealogy = ({navigation}) => {
   };
 
   const onScanCodeQR = () => {
-    console.log('Làm méo gì có chức năng này =)))');
+    console.log('');
   };
 
   const handleGenealogyChange = () => {
