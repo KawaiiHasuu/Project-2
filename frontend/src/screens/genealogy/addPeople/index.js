@@ -12,7 +12,7 @@ const AddPeople = ({navigation}) => {
     navigation.goBack();
   };
   const handleChangeAvatar = () => {
-    console.log('Ok đang thay đổi ảnh đại diện cho mày đây');
+    console.log('');
   };
   const [selectedValue, setSelectedValue] = useState('Khác');
   const handleValueChange = itemValue => {
